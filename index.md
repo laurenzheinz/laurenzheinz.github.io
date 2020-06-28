@@ -18,7 +18,7 @@ No, it actually runs on a brain-copy from Bob who had died before and inherited 
 * One of the clone even develops a super-luminal communication channel. 
   This technique is broadcasted by common radio and reaches the other clones after years or decades
   who rebuild the technique and join the online channel of this Bobiverse.
-* Later even an android body is created who is remotely controlled by its master brain who is still orbiting in space.
+* Later even an android body is created who is remotely controlled by its master brain still orbiting in space.
   These android bodies become more and more human-like and the Bobs finally can participate in normal life again.
   Bob has reached multi-immortality.
 
@@ -26,5 +26,5 @@ Bob says about him-/them-selves:
 > I am Many
 > in All these Worlds
 
-
+<img src="https://i.imgur.com/vEXEwIF.png"/>
 

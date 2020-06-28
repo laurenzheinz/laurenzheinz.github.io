@@ -26,5 +26,10 @@ Bob says about him-/them-selves:
 > I am Many
 > in All these Worlds
 
-<img src="https://i.imgur.com/vEXEwIF.png"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Advanced_Automation_for_Space_Missions_figure_5-19.jpg"/>
+
+Von NASA Conference Publication 2255 (1982), based on the Advanced Automation for Space Missions NASA/ASEE summer study 
+Held at the University of Santa Clara in Santa Clara, California, from June 23-August 29, 1980., Gemeinfrei, 
+<a href="https://commons.wikimedia.org/w/index.php?curid=1687422">Link</a> 
 
